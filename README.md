@@ -1,7 +1,7 @@
-# Movie Quiz Application
+# Movie Information and Quiz Application
 
 ## Description
-It is a movie quiz application created using Javascript, HTML and CSS. It allows users to explore movies where the information is fetched from OMDb API and then attempt the quiz after exploring.
+It is a movie information and quiz application created using Javascript, HTML and CSS. It allows users to explore movies where the information is fetched from OMDb API and then attempt the quiz after exploring.
 
 ## Features
 - User can search movies by title to generate information
