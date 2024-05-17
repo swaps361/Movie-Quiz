@@ -44,6 +44,13 @@ It is a movie quiz application created using Javascript, HTML and CSS. It allows
 6. The quiz consists of 3 questions and does not have any time limit.
 7. Users can view their score at the end of the Quiz.
    
+## Deployment
+The application is deployed on GitHub Pages and can be accessed via the following link:
+[Movie Quiz Application](https://swaps361.github.io/Movie-Quiz/)
+
+## Contact
+For any questions or feedback, feel free to reach out to [swapnildas742@gmail.com](mailto:swapnildas742@gmail.com) .
+
 
 
 
