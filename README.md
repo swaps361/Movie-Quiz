@@ -24,7 +24,7 @@ It is a movie information and quiz application created using Javascript, HTML an
     ```
 2. Navigate to the project directory:
     ```sh
-    cd movie-search-app
+    cd Movie-Quiz
     ```
 3. Ensure you have an active internet connection to fetch movie data from the OMDb API.
 
